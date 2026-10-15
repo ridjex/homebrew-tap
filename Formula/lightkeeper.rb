@@ -3,8 +3,8 @@ class Lightkeeper < Formula
 
   desc "Reviews GitHub pull requests in your name, by rules you write in plain language"
   homepage "https://github.com/ridjex/lightkeeper"
-  url "https://github.com/ridjex/lightkeeper/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "93d1e7c3e028259f9fc32b48fc4b4a9f61032d834691efcb370c630bdbd67304"
+  url "https://github.com/ridjex/lightkeeper/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "23e18ce6b921cebeca0ce12a6ec03ae81766e0f38cb61da1c851aaff40b5cfbe"
   license "MIT"
   head "https://github.com/ridjex/lightkeeper.git", branch: "main"
 
